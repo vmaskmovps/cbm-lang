@@ -1,6 +1,0 @@
-﻿services:
-  cbmlanguage:
-    image: cbmlanguage
-    build:
-      context: .
-      dockerfile: CBMLanguage/Dockerfile

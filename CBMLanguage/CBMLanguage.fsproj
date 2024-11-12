@@ -7,14 +7,7 @@
     </PropertyGroup>
     
     <ItemGroup>
-        <Content Include="..\.dockerignore">
-            <Link>.dockerignore</Link>
-        </Content>
-        <Content Include="Dockerfile"/>
         <Compile Include="Ast.fs"/>
-    </ItemGroup>
-    
-    <ItemGroup>
         <Compile Include="Program.fs"/>
     </ItemGroup>
 </Project>
