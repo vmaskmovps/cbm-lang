@@ -1,0 +1,6 @@
+*          text=auto
+
+*.fs       text=auto eol=lf diff=fsharp
+*.fsx      text=auto eol=lf diff=fsharp
+*.sln      text=auto eol=crlf merge=union
+*.fsproj   text=auto merge=union
