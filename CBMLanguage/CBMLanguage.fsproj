@@ -5,7 +5,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     </PropertyGroup>
-    
+
     <ItemGroup>
         <Compile Include="Ast.fs"/>
         <Compile Include="Program.fs"/>
